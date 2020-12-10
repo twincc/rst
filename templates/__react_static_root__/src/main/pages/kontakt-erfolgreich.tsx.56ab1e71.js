@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{51:function(e,n,l){"use strict";l.r(n);var a=l(0),i=l.n(a);n.default=function(){return i.a.createElement("div",null,i.a.createElement("h1",null,"Vielen Dank"),i.a.createElement("p",null,"Vielen Dank für die Anfrage. Wir werden uns so schnell wie möglich bei Ihnen melden!"))}}}]);
