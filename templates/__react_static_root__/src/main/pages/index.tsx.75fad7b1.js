@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{131:function(n,t,e){n.exports=e.p+"static/filter.0da63dd9.png"},50:function(n,t,e){"use strict";e.r(t);var a=e(0),c=e.n(a),i=e(131),r=e.n(i);t.default=function(){return c.a.createElement("div",null,c.a.createElement("img",{src:r.a,alt:""}))}}}]);
