@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{zp77:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),i=t.n(a),r=t("CguH");n.default=function(){return i.a.createElement(r.a,{subtitle:"Kontakt"},i.a.createElement("h1",null,"Es tut uns leid"),i.a.createElement("p",null,"Leider ist bei Ihrer Kontaktanfrage etwas schiefgelaufen. Bitte versuchen Sie es noch einmal oder senden sie eine E-Mail direkt an service@rst-info.de."))}}}]);
+//# sourceMappingURL=component---src-pages-kontakt-fehlgeschlagen-tsx-c16116202bd872f117ce.js.map

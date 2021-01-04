@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{d3sk:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),l=t.n(a),i=t("CguH");n.default=function(){return l.a.createElement(i.a,{subtitle:"Kontakt"},l.a.createElement("h1",null,"Vielen Dank"),l.a.createElement("p",null,"Vielen Dank für die Anfrage. Wir werden uns so schnell wie möglich bei Ihnen melden!"))}}}]);
+//# sourceMappingURL=component---src-pages-kontakt-erfolgreich-tsx-83f9a1988fc6ebc3da19.js.map
